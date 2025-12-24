@@ -1,6 +1,11 @@
 # Website link:
 https://wt-blogs.vercel.app/
 
+## About project
+
+ Web Tech Blogs is a full-stack Web App focused on web technology topics, created to share experiences and knowledge about web development that are valuable to the community.
+    It features a user-frienfly interface where you can create your own blogs using a rich text editor or just browse through the existing ones. The app also has a built-in search function and other useful informations about the selected article, allowing you to easily find the content you're looking for.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
